@@ -1,0 +1,88 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Perth",
+      "country": "Australia",
+      "emoji": "🇦🇺",
+      "date": "2023-07-28T14:01:22.385Z",
+      "notes": "Great city😉",
+      "position": {
+        "lat": "-31.956082229047468",
+        "lng": "115.86018562316896"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-07-28T15:04:10.714Z",
+      "notes": "Nice tower",
+      "position": {
+        "lat": "48.84331495662611",
+        "lng": "2.3538208007812504"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Hong Kong",
+      "country": "Hong Kong",
+      "emoji": "🇭🇰",
+      "date": "2023-07-28T15:25:03.152Z",
+      "notes": "Great",
+      "position": {
+        "lat": "22.352036137647605",
+        "lng": "114.202880859375"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Tokyo",
+      "country": "Japan",
+      "emoji": "🇯🇵",
+      "date": "2023-07-28T15:27:47.676Z",
+      "notes": "hello",
+      "position": {
+        "lat": "35.68971797848548",
+        "lng": "139.86694335937503"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Rome",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2023-07-28T15:32:19.807Z",
+      "notes": "Good",
+      "position": {
+        "lat": "41.89655148936899",
+        "lng": "12.502441406250002"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-07-28T15:39:20.723Z",
+      "notes": "nice\n",
+      "position": {
+        "lat": "48.85400047329224",
+        "lng": "2.3881530761718754"
+      },
+      "id": 98443207
+    }
+  ]
+}
